@@ -2,4 +2,4 @@
 link: [events](events.md)
 
 Really cool cat... 
-![Alt](images/booger.jfif)
+![Alt](booger.jfif)
